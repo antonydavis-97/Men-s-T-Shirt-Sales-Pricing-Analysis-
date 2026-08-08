@@ -56,9 +56,7 @@ The report contains multiple pages with interactive Power BI visualisations, inc
 
 ## Dashboard Demonstration
 
-A video walkthrough of the completed Power BI dashboard is included below.
-
-`powerbi-dashboard-demo.mp4`
+[▶️ Watch Power BI Dashboard Walkthrough](./Video%20Project.mp4)
 
 ## Key Learning Outcomes
 
